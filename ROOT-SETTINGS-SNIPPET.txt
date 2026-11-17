@@ -1,0 +1,5 @@
+Add this line to the existing root settings.gradle.kts inside the project:
+
+include(":app")
+
+Do not replace your complete settings.gradle.kts with this one line.
